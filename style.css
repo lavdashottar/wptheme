@@ -1,0 +1,23 @@
+/*
+ Theme Name:   wp dev test
+ Description:  Twenty Sixteen Child Theme
+ Author:       Lav Dashottar
+ Template:     twentysixteen
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  wp-dev-test
+*/
+
+
+/* Add your custom css below */
+
+.sale_badge {
+	position:absolute;
+	margin-top:10px;
+	
+}
+.shortcode_class {
+	display:inline-block;
+	width:100%;		
+}
+
